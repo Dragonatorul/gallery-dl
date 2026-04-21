@@ -49,6 +49,7 @@ modules = [
     "comedywildlifephoto",
     "comicartfans",
     "comick",
+    "comickfan",
     "comicvine",
     "cosmos",
     "cosplayrule34",

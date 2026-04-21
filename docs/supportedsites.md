@@ -235,6 +235,12 @@ Consider all listed sites to potentially be NSFW.
     <td>Chapters, Covers, Manga</td>
     <td></td>
 </tr>
+<tr id="comickfan" title="comickfan">
+    <td>ComicK Fanmade</td>
+    <td>https://comickfan.com/</td>
+    <td>Chapters, Manga</td>
+    <td></td>
+</tr>
 <tr id="coomer" title="coomer">
     <td>Coomer</td>
     <td>https://coomer.st/</td>
